@@ -1,0 +1,176 @@
+[
+    {
+        "name":"Stone Art gift",
+        "images":[
+            {
+                "image":"/images/products/01.jpeg"
+            },
+            {
+                "image":"/images/products/03.jpeg"
+            }
+        ],
+        "category":"Stone art",
+        "price":3501,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+        "stock":"20",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":7,
+        "reviews":[]
+
+    },
+    {
+        "name":"BOOK PAGE art gift",
+        "images":[
+            {
+                "image":"/images/products/02.jpeg"
+            }
+        ],
+        "category":"Book art",
+        "price":3500,
+        "description":"Graphite pencil Artwork",
+        "ratings":"4",
+        "stock":"10",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":19,
+        "reviews":[]
+
+    },
+    {
+        "name":"Resin art",
+        "images":[
+            {
+                "image":"/images/products/04.jpeg"
+            },
+            {
+                "image":"/images/products/05.jpeg"
+            },
+            {
+                "image":"/images/products/06.jpeg"
+            }
+        ],
+        "category":"Resin art",
+        "price":2000,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+        "stock":"7",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":5,
+        "reviews":[]
+
+    }, {
+        "name":"Resin art",
+        "images":[
+            {
+                "image":"/images/products/07.jpeg"
+            },
+            {
+                "image":"/images/products/08.jpeg"
+            },
+            {
+                "image":"/images/products/09.jpeg"
+            }
+        ],
+        "category":"Resin art",
+        "price":2000,
+        "description":"Graphite pencil  artwork",
+        "ratings":"4",
+        "quantity":"10",
+        "stock":"18",
+        "Artist":"Sabarish",
+        "numofReviews":12,
+        "reviews":[]
+
+    }, {
+        "name":"Resin art",
+        "images":[
+            {
+                "image":"/images/products/10.jpeg"
+            },
+            {
+                "image":"/images/products/11.jpeg"
+            }
+        ],
+        "category":"Resin art",
+        "price":4500,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+        "quantity":"10",
+        "stock":"40",
+        "Artist":"Sabarish",
+        "numofReviews":3,
+        "reviews":[]
+
+    },
+    {
+        "name":"Pencil craft gift",
+        "images":[
+            {
+                "image":"./images/products/12.jpeg"
+            },{
+                "image":"./images/products/13.jpeg"
+            },
+            {
+                "image":"./images/products/14.jpeg"
+            },
+            {
+                "image":"./images/products/15.jpeg"
+            },
+            {
+                "image":"./images/products/16.jpeg"
+            }
+        ],
+        "category":"Stone art",
+        "price":4008,
+        "description":"Graphite pencil paid artwork",
+        "ratings":"4",
+        "stock":"16",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":8,
+        "reviews":[]
+
+    },
+    {
+        "name":"Laser art gift",
+        "images":[
+            {
+                "image":"./images/prodcts/18.jpeg"
+            }
+        ],
+        "category":"Stone art",
+        "price":1500,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+         "quantity":"10",
+        "stock":1,
+        "Artist":"Sabarish",
+        "numofReviews":3,
+        "reviews":[]
+
+    },
+    {
+        "name":"Laser art gift",
+        "images":[
+            {
+                "image":"./images/products/20.jpeg"
+            },
+            {
+                "image":"./images/products/19.jpeg"
+            }
+        ],
+        "category":"Stone art",
+        "price":1500,
+        "description":"Graphite pencil paid artwork",
+        "ratings":"4",
+        "stock":1,
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":3,
+        "reviews":[]
+
+    }
+]
